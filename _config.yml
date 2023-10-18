@@ -22,7 +22,7 @@ title: 宇吾的 Web3 学习小站
 email: corrorwb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   欢迎来到宇吾的 Web3 学习小站，期待与你在这里一起精进 Web3~
-baseurl: "Web3-Learning-Notes" # the subpath of your site, e.g. /blog
+baseurl: "/Web3-Learning-Notes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: corror2
 github_username:  eiyen
