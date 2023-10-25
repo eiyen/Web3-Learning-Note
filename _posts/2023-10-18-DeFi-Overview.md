@@ -5,8 +5,6 @@ date: 2023-10-18 21:27
 categories: 投研
 ---
 
-> 课程链接：<a href="https://drive.google.com/drive/folders/1UE58Ga-trI0gIXHJq_8J8mOgWoRvKgKx?usp=sharing" target="_blank">第一课录播链接</a>
-
 # 1. DeFi 的优劣势
 
 ## 1.1 DeFi 优势
@@ -56,3 +54,5 @@ Compound 提供了一个去中心化的借贷平台，它允许任何用户通�
 ## 2.4 Curve
 
 与 Uniswap V1 类似，Curve 也提供了一个基于自动做市商模型的数字货币交换平台。但是，Curve 专注于稳定币和低波动资产的交换，能够做到在大额交易时，几乎不产生交易滑点。Curve 的出现，提升了稳定币之间的兑换效率。
+
+> 课程链接：<a href="https://drive.google.com/drive/folders/1UE58Ga-trI0gIXHJq_8J8mOgWoRvKgKx?usp=sharing" target="_blank">第一课录播链接</a>
