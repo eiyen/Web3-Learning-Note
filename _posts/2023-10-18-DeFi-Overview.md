@@ -9,7 +9,7 @@ categories: 投研
 
 ## 1.1 DeFi 优势
 
-![DeFi优势]({{ site.baseurl }}/assets/images/DeFi优势.png)
+![DeFi优势]({{ site.baseurl }}/images/DeFi优势.png)
 
 **易用层面**
 
@@ -31,7 +31,7 @@ categories: 投研
 
 ## 1.2 DeFi 劣势
 
-![DeFi劣势]({{ site.baseurl }}/assets/images/DeFi劣势.png)
+![DeFi劣势]({{ site.baseurl }}/images/DeFi劣势.png)
 
 1. **低流动性**：DEX 的交易量大约只有 CEX 的13%，同时流动池深度有高有低，对于小币种而言，可以交易滑点会很高。
 2. **高手续费**：DEX 基于公链进行交易，而公链的共识协议、拥堵情况，都会影响手续费的高低。
